@@ -5,6 +5,8 @@ description: 'Example of student work for an assignment to create a Dungeons and
 file: /courses/mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015/add9e1345eff6d748ac3843b7f14d50c_MITMAS_S66S15_DDCharacter.pdf
 file_size: 777280
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

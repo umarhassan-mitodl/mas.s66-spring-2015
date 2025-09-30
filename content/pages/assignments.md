@@ -59,7 +59,7 @@ Start developing your midterm project. The midterm can be a substantial refineme
 
 ### Materials Needed for this Assignment:
 
-- Dungeons & Dragons Character Sheet, Fifth Edition. Click "{{% resource_link "cd0e2239-9ee1-4b8a-a47d-1b19eb3f90a0" "Fifth Edition Character Sheets" %}}" to download. Use the file named "DnD\_5E\_CharacterSheet - Form Fillable.pdf".
+- Dungeons & Dragons Character Sheet, Fifth Edition. Click "[Fifth Edition Character Sheets](https://dnd.wizards.com/articles/features/character_sheets)" to download. Use the file named "DnD\_5E\_CharacterSheet - Form Fillable.pdf".
 - Wizards RPG Team. *Dungeons & Dragons Player's Handbook*. 5th ed. Wizards of the Coast, 2014. ISBN: 9780786965601.
 
 *Student Work Example*
@@ -72,7 +72,7 @@ Start developing your midterm project. The midterm can be a substantial refineme
 
 **Dragon Rising Game** 
 
-This game design assignment is inspired by the study of Dungeons & Dragons and its {{% resource_link "d0cb768d-fed4-4133-a35b-177316d98a35" "game mechanics and history" %}}. The goal of this group assignment is to give students experience using game mechanics to depict a particular storytelling idea or setting.   
+This game design assignment is inspired by the study of Dungeons & Dragons and its [game mechanics and history](https://speakerdeck.com/gregab/the-pre-history-of-d-and-d-play-simulation-and-storytelling-in-1500-years-of-war-games). The goal of this group assignment is to give students experience using game mechanics to depict a particular storytelling idea or setting.   
   
 *Guidelines:* 
 
@@ -94,9 +94,9 @@ No design exercise for this session. Midterm project and presentation due this s
 
 **Build Your Own Markov Chain Bot**
 
-Expanding on an in-class discussion of Twitter bots, this assignment shows current creative uses to which generative text is incorporated in social media. For this assignment, build your own Twitter bot using {{% resource_link "dff72bdd-0690-40a3-aecf-a110bc3b27c0" "this tutorial" %}}, which was created using an open source software tool called Bother.
+Expanding on an in-class discussion of Twitter bots, this assignment shows current creative uses to which generative text is incorporated in social media. For this assignment, build your own Twitter bot using [this tutorial](http://atduskgreg.github.io/bother/ide.html), which was created using an open source software tool called Bother.
 
-For more information on the source code of this tutorial and examples of interesting bots, read {{% resource_link "87d4505a-b5ae-491c-916c-8345ca840578" "Bother – A One-Page Framework for Learning Bot-Making" %}}.
+For more information on the source code of this tutorial and examples of interesting bots, read [Bother – A One-Page Framework for Learning Bot-Making](https://github.com/atduskgreg/bother).
 
 Create your final project proposal.
 
@@ -116,7 +116,7 @@ No design exercise for this session. Final project and presentation due this ses
 
 *Student Work Example*
 
-{{% resource_link "d9f04b9e-d2b2-4610-bbbc-36cd2e6e0c97" "Emergence | A trick in 3 Parts" %}} – final project by Jonathan Bobrow 
+[Emergence | A trick in 3 Parts](http://magic.jonathanbobrow.com/?p=95) – final project by Jonathan Bobrow 
 
 For my final project, I wanted to string a narrative between the disparate projects I had been working on throughout the semester. A growing fascination with emergent behavior and biologically inspired interactions led me to develop some simple tools for exploring these phenomena, both for real investigation as well as some fun with a supposed investigation. When mentioning emergence with regard to design, behavior, or systems, I am always asked for clarification, so it only seemed natural to discuss the concept of emergence and have some fun with it.
 

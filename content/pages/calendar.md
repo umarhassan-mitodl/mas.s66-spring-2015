@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of course topics, activities, guests,
   and assignment due dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -46,7 +48,7 @@ Introduction / Overview
 Smoke and Mirrors: Stage Illusion as Storytelling Tool
 
 _Design Exercise_: Learn a Trick  
-_Guest_: {{% resource_link "688e236c-be38-4b1e-a0cb-0559da343b10" "Marco Tempest" %}}
+_Guest_: [Marco Tempest](http://www.marcotempest.com/)
 
 
 {{< tdclose >}}
@@ -82,7 +84,7 @@ Perform the Trick from Session 2
 
 Magical Warfare: Camouflage & Deception & On Her Majesty's Occult Service; Dee, Crowley, Maskelyne, and Mulholland
 
-_Guests_: {{% resource_link "da0580fd-ef65-41b6-a39e-5f3f2026a2a2" "Joi Ito" %}}, {{% resource_link "1b9fb971-fe2b-48a0-9eea-89b350af40e1" "Kevin Slavin" %}}, {{% resource_link "adb546ea-b991-41ad-9931-597f7506687c" "Adam Harvey" %}}
+_Guests_: [Joi Ito](https://www.media.mit.edu/people/joi), [Kevin Slavin](https://www.media.mit.edu/people/slavin), [Adam Harvey](http://ahprojects.com/about/)
 
 
 {{< tdclose >}}
@@ -137,7 +139,7 @@ _Guest_: Kevin Slavin
 
 Magic Items: Rings, Swords, and the Internet of Things
 
-_Guests_: {{% resource_link "974416e6-7957-45c5-accd-c12e621381f7" "David Rose" %}} and {{% resource_link "3a546b9e-0f74-4deb-9c4e-8967369889d2" "Matt Jones" %}}
+_Guests_: [David Rose](http://cp.media.mit.edu/davidrose/) and [Matt Jones](http://magicalnihilism.com/)
 
 
 {{< tdclose >}}
@@ -168,7 +170,7 @@ Midterm Project due
 Computational Demonology: Bots, Familiars, and Machine Learning
 
 _Design Exercise_: Build Your Own Markov Chain Bot  
-_Guest_: {{% resource_link "ad3dfc1d-bb8f-4bcd-bc88-af7fe96e0c97" "Darius Kazemi" %}}
+_Guest_: [Darius Kazemi](http://tinysubversions.com/)
 
 
 {{< tdclose >}}
