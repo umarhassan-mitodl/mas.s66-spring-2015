@@ -6,12 +6,10 @@ description: Illustration of Sleight of hand magic tricks. Students learned and 
 file: /courses/mas-s66-indistinguishable-from-magic-as-interface-technology-and-tradition-spring-2015/45eccaaa78bc893bee33b215d7d19b02_mas-s66s15.jpg
 file_size: 73715
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Students learned and performed sleight of hand illusions as an assignment
-    in this course. (Image courtesy of the [Crossett Library](https://flic.kr/p/9dnnAL)
-    on flickr. License CC BY-NC-SA.)
+    in this course. (Image courtesy of the {{% resource_link "ec7d59e1-b7cc-45a8-b0af-cef0b39e1555"
+    "Crossett Library" %}} on flickr. License CC BY-NC-SA.)
   credit: Image courtesy of the Crossett Library on flickr. License CC BY-NC-SA.
   image-alt: Illustration of a sleight of hand trick in magic.
 learning_resource_types: []
